@@ -41,6 +41,18 @@
         android:text="PHP"
         android:onClick="test6"
         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="download"
+        android:onClick="test7"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="upload to PHP"
+        android:onClick="test8"
+        />
     <ImageView
         android:id="@+id/img"
         android:layout_width="wrap_content"
